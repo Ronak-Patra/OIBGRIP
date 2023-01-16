@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="13.453 4.193 341.599 214.398" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient gradientUnits="userSpaceOnUse" cx="164.745" cy="101.564" r="79.575" id="gradient-1">
+      <stop offset="0" style="stop-color: rgba(17, 146, 238, 1)"/>
+      <stop offset="1" style="stop-color: rgba(10, 88, 143, 1)"/>
+    </radialGradient>
+  </defs>
+  <g transform="matrix(1, 0, 0, 1.21208, 4.717435, -21.4366)" style="">
+    <g transform="matrix(0.390418, -0.003035, 0.000465, -0.086245, -117.059158, 201.158096)" fill="#000000" stroke="none" style="">
+      <path d="M775 1671 c-7 -12 -5 -1236 2 -1262 3 -11 14 -19 24 -19 18 0 19 20 19 645 0 632 0 645 -19 645 -11 0 -22 -4 -26 -9z" style="fill: rgb(255, 191, 191);"/>
+      <path d="M940 1035 c0 -495 0 -505 20 -505 19 0 19 10 19 505 0 496 0 505 -19 505 -20 0 -20 -9 -20 -505z" style="fill: rgb(255, 55, 55);"/>
+      <path d="M720 1035 c0 -438 0 -445 20 -445 20 0 20 7 20 445 0 438 0 445 -20 445 -20 0 -20 -7 -20 -445z" style="fill: rgb(255, 212, 225);"/>
+      <path d="M830 1035 c0 -438 0 -445 20 -445 20 0 20 7 20 445 0 438 0 445 -20 445 -20 0 -20 -7 -20 -445z" style="fill: rgb(255, 133, 133);"/>
+      <path d="M880 1035 l0 -335 25 0 25 0 0 335 0 335 -25 0 -25 0 0 -335z" style="fill: rgb(255, 78, 78);"/>
+    </g>
+  </g>
+  <g transform="matrix(0.390418, -0.003035, 0.000654, -0.121351, -220.658752, 233.260315)" fill="#000000" stroke="none" style="">
+    <path d="M 775.029 1831.587 C 768.029 1815.954 770.029 221.373 777.029 187.502 C 780.029 173.17 791.029 162.749 801.029 162.749 C 819.029 162.749 820.029 188.804 820.029 1003.031 C 820.029 1826.376 820.029 1843.314 801.029 1843.314 C 790.029 1843.314 779.029 1838.103 775.029 1831.587 Z" style="paint-order: stroke; fill-rule: nonzero; fill: rgb(228, 54, 109);"/>
+    <path d="M940 1035 c0 -495 0 -505 20 -505 19 0 19 10 19 505 0 496 0 505 -19 505 -20 0 -20 -9 -20 -505z" style="paint-order: stroke; fill-rule: nonzero; fill: rgb(255, 162, 192);"/>
+    <path d="M 720 1037.253 C 720 405.801 720 395.708 740 395.708 C 760 395.708 760 405.801 760 1037.253 C 760 1668.706 760 1678.798 740 1678.798 C 720 1678.798 720 1668.706 720 1037.253 Z" style="paint-order: stroke; fill-rule: nonzero; fill: rgb(217, 34, 91);"/>
+    <path d="M 830 1019.955 C 830 405.65 830 395.833 850 395.833 C 870 395.833 870 405.65 870 1019.955 C 870 1634.258 870 1644.076 850 1644.076 C 830 1644.076 830 1634.258 830 1019.955 Z" style="paint-order: stroke; fill-rule: nonzero; fill: rgb(240, 80, 130);"/>
+    <path d="M880 1035 l0 -335 25 0 25 0 0 335 0 335 -25 0 -25 0 0 -335z" style="paint-order: stroke; fill-rule: nonzero; fill: rgb(243, 90, 138);"/>
+    <path d="M 670 1442.341 C 667 603.967 667 627.541 689 623.12 C 710 618.701 710 620.174 710 1045.992 C 710 1464.443 710 1474.756 690 1474.756 C 676 1474.756 670 1464.443 670 1442.341 Z" style="paint-order: stroke; fill-rule: nonzero; fill: rgb(217, 34, 91);"/>
+    <path d="M610 1030 c0 -243 1 -250 20 -250 19 0 20 7 20 250 0 243 -1 250 -20 250 -19 0 -20 -7 -20 -250z" style="paint-order: stroke; fill-rule: nonzero; fill: rgb(217, 34, 91);"/>
+  </g>
+  <text style="fill: rgb(255, 255, 255); font-family: Arial, sans-serif; font-size: 47px; paint-order: stroke; stroke: url(#gradient-1); stroke-miterlimit: 1; white-space: pre;" transform="matrix(1.943364, 0, 0, 1.771631, -120.189095, -75.399635)"><tspan x="85.17" y="70.702" dy="1em">​</tspan><tspan>@-Web</tspan></text>
+</svg>
